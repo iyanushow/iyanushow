@@ -6,10 +6,10 @@
 
 ### 👨🏻‍💻 &nbsp;[About Me][website]
 ##### I'm an engineering graduate and fullstack javascript developer  
-- 💼 Currently working on web development technologies majorly React, Django and Node.
+- 💼 Currently building elegant and efficient web applications using React,Vue, Django and NodeJs.
 - 📚 Currently learning computer science in-depth at [open-source university](https://github.com/ForrestKnight/open-source-cs).
 - 🤔 Exploring new technologies and software solutions.
-- ✍️ Future Goals: Creating globally used software solutions and building creative software infrastuctures.
+- ✍️ Future Goals: Creating globally required software solutions and building creative software infrastuctures.
 - ⚡ Love watching and playing football
 
 
